@@ -31,4 +31,4 @@
 </p>
 
 ### 📊 Estatísticas do GitHub:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Winicius Oliveira&show_icons=true&locale=en&layout=compact" alt="Winicius-Coelho" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=winiciusoliveira&show_icons=true&locale=en&layout=compact" alt="Winicius-Coelho" /></p>
